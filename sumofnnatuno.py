@@ -1,5 +1,5 @@
 n=int(input())
-for i in range(n):
+for i in range(n+1):
   sum+=i
 print(sum)
 #prasad
