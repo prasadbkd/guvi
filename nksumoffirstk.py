@@ -4,3 +4,4 @@ sumi=0
 for i in range(k):
   sumi+=a[i]
  print(sumi)
+#prasad
