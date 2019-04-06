@@ -1,5 +1,6 @@
 n=int(input())
+sum1=0
 for i in range(n+1):
-  sum+=i
-print(sum)
+  sum1+=i
+print(sum1)
 #prasad
