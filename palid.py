@@ -4,3 +4,4 @@ if s1==s:
   print('yes')
 else:
   print('no')
+#prasad
