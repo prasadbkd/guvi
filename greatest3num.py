@@ -1,8 +1,9 @@
-#greates tnum
-x,y,z=[int(x) for x in input().split()]
-if x>y and x>z:
+#greatesofthenum
+x, y,z = map(int, input().split())
+if x>=y and x>=z:
     print(x)
-elif y>x and y>z:
+elif y>=x and y>=z:
     print(y)
 else:
     print(z)
+#prasad
