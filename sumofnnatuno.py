@@ -1,4 +1,5 @@
 n=int(input())
 for i in range(n):
   sum+=i
- print(sum)
+print(sum)
+#prasad
