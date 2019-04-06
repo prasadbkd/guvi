@@ -12,4 +12,4 @@ if n<=1000:
         print('no')
 else:
         print('no')
- #prasad
+ #prasadbkd
