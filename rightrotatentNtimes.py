@@ -1,7 +1,6 @@
-n = 1
+n,k = map(int,input().split())
   
-list_1 = [1, 2, 3, 4, 5] 
-list_1 = (list_1[-n:] + list_1[:-n]) 
-  
-print(list_1) 
+list_1 = [x for x in input().split()] 
+list_1 = (list_1[-k:] + list_1[:-k]) 
+print(" ".join(list_1)) 
 #prasad
